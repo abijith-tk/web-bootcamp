@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+}
+
+.main{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: blue;
+    text-shadow: 1px 1px 5px black;
+}
+
+h3{
+    text-decoration: underline;
+    color: blue;
+}
