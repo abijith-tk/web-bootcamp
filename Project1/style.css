@@ -16,3 +16,20 @@ h3{
     text-decoration: underline;
     color: blue;
 }
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox{
+    width: 20%;
+    text-align: center;
+    border : 2px solid blue;
+    margin-left: 5px;
+    background-color: aliceblue;
+}
+
+li{
+    text-align: left;
+}
