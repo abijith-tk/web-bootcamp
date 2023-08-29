@@ -8,3 +8,4 @@
 - [Project 1](https://abijith-tk.github.io/web-bootcamp/Project1)
 - [css-flexbox](https://abijith-tk.github.io/web-bootcamp/css-flexbox)
 - [Passenger Count](https://abijith-tk.github.io/web-bootcamp/passengerCounter)
+- [Calculator](https://abijith-tk.github.io/web-bootcamp/calculator)
